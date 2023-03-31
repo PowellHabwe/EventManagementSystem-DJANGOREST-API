@@ -2,15 +2,11 @@
 
 #SETUP
 
-#Change to the directory that contains the manage.py file.
-
-#Create a virtual environment
-
-#Activate the virtual environment:
-
-#Install the dependencies from requirements.txt:
-
-#Run the database migrations
+Change to the directory that contains the manage.py file.
+Create a virtual environment
+Activate the virtual environment:
+Install the dependencies from requirements.txt:
+Run the database migrations
 
 #Create a superuser account:
 
