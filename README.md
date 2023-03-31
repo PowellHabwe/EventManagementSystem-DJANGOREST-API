@@ -21,3 +21,5 @@ To use the application, run the development server:
 You can then log in to the admin interface at http://127.0.0.1:8000/admin/ using the credentials:
 
 From there, you can manage events and other resources in the system.
+
+Payment is by MPESA
